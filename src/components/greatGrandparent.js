@@ -10,7 +10,7 @@ export default class GreatGrandparent extends React.Component {
     super(props);
     this.handleChange = this.handleChange.bind(this);
     this.state = {
-      lastName: 'Mendoza'
+      lastName: lastName
     }
   }
 
